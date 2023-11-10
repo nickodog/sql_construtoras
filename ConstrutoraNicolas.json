@@ -1,0 +1,133 @@
+{
+	"Codigo": 1,
+	"Nome": "Nicolas",
+	"Nome_Fantasia": null,
+	"Telefone": 51993233322,
+	"Obra": [{
+			"Codigo": 1,
+			"Nome": "Prédio 1",
+			"Complemento": null,
+			"Numero": 132,
+			"Logradouro": "Logradouro 1",
+			"Trabalhador": [{
+					"CPF": 22218666065,
+					"Nome": "Jorge",
+					"Salario": 4300
+				},
+				{
+					"CPF": 82267046008,
+					"Nome": "Matheus",
+					"Salario": 4000
+				},
+				{
+					"CPF": 94280950016,
+					"Nome": "William",
+					"Salario": 3700
+				},
+				{
+					"CPF": 52061209017,
+					"Nome": "Pedro",
+					"Salario": 10000
+				},
+				{
+					"CPF": 45461981089,
+					"Nome": "Camila",
+					"Salario": 7000
+				}
+			],
+			"Categoria": [{
+					"Codigo": 1,
+					"Descricao": "Concretagem",
+					"Equipamento": [{
+							"Codigo": 201,
+							"Nome": "Betoneira",
+							"Valor_Diaria": 100,
+							"data_inic": "01-MAR-22",
+							"data_term": "31-MAR-22"
+						},
+						{
+							"Codigo": 205,
+							"Nome": "Cortadora de Piso",
+							"Valor_Diaria": 230,
+							"data_inic": null,
+							"data_term": null
+						},
+						{
+							"Codigo": 206,
+							"Nome": "Mangote",
+							"Valor_Diaria": 25,
+							"data_inic": null,
+							"data_term": null
+						}
+					]
+				},
+				{
+					"Codigo": 2,
+					"Descricao": "Acesso e Elevação",
+					"Equipamento": {
+						"Codigo": 202,
+						"Nome": "Guincho",
+						"Valor_Diaria": 1000,
+						"data_inic": "01-MAR-22",
+						"data_term": "31-MAR-22"
+					}
+				},
+				{
+					"Codigo": 3,
+					"Descricao": "Geradores e Compressores",
+					"Equipamento": {
+						"Codigo": 203,
+						"Nome": "Gerador",
+						"Valor_Diaria": 300,
+						"data_inic": "01-MAR-22",
+						"data_term": "31-MAR-22"
+					}
+				},
+				{
+					"Codigo": 4,
+					"Descricao": "Andaimes",
+					"Equipamento": {
+						"Codigo": 204,
+						"Nome": "Piso Metálico",
+						"Valor_Diaria": 50,
+						"data_inic": "01-MAR-22",
+						"data_term": "31-MAR-22"
+					}
+				}
+			]
+		},
+		{
+			"Codigo": 2,
+			"Nome": "Prédio 2",
+			"Complemento": null,
+			"Numero": 209,
+			"Logradouro": "Logradouro 5",
+			"Trabalhador": [{
+					"CPF": 61307098037,
+					"Nome": "Fred",
+					"Salario": 2300
+				},
+				{
+					"CPF": 64261616084,
+					"Nome": "Murilo",
+					"Salario": 3200
+				},
+				{
+					"CPF": 17787791071,
+					"Nome": "Paulo",
+					"Salario": 8700
+				},
+				{
+					"CPF": 7925109092,
+					"Nome": "Bruno",
+					"Salario": 12000
+				},
+				{
+					"CPF": 97669499052,
+					"Nome": "Nicole",
+					"Salario": 2450
+				}
+			]
+		}
+	]
+}
